@@ -1,0 +1,14 @@
+.UserCount {
+  vertical-align: top;
+}
+
+.UserCount-row {
+  list-style: none;
+}
+
+.UserCount-col {
+  font-size: 2rem;
+  display: inline-block;
+  padding: 0 20px;
+  text-align: left;
+}

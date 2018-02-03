@@ -1,0 +1,8 @@
+.Counter {
+  text-align: center;
+}
+
+.Counter > h1 {
+  font-size: 20rem;
+  color: black;
+}

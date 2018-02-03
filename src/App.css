@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-main-block {
+  width: 60vw;
+  display: inline-block;
+  border-right: 5px solid black;
+}
+
+.App-secondary-block {
+  width: calc(40vw - 5px);
+  display: inline-block;
+}
