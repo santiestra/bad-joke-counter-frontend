@@ -3,9 +3,10 @@
 }
 
 .App-main-block {
+  height: 100vh;
   width: 60vw;
   display: inline-block;
-  border-right: 5px solid black;
+  border-right: 5px solid white;
 }
 
 .App-secondary-block {

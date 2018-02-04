@@ -3,6 +3,11 @@
 }
 
 .Counter > h1 {
-  font-size: 20rem;
-  color: black;
+  font-size: 260px;
+  display: inline-block;
+}
+
+.Counter-warning {
+  font-size: 100px;
+  display: inline-block;
 }
