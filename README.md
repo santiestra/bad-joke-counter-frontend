@@ -6,3 +6,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] Ping/Pong to keep alive web socket connection
 - [ ] Save state on local storage
 - [ ] Handle "reset" event
+- [ ] Write Component tests
+- [ ] Write actions tests
